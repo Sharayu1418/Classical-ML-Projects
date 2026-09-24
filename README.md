@@ -1,11 +1,8 @@
 # Classical ML Projects
 
-Two scikit-learn coursework exercises: linear classifiers on the Iris dataset, and regression models for daily bike-rental demand.
+Two scikit-learn exercises: linear classifiers on the Iris dataset, and regression models for daily bike-rental demand.
 
 `Python` `scikit-learn` `pandas` `NumPy` `Matplotlib` `Seaborn`
-
-Coursework — machine learning course assignments, October 2025.
-
 ---
 
 ## What's here
